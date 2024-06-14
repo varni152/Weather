@@ -27,6 +27,6 @@ To get a local copy up and running, follow these simple steps.
 ### OpenWeatherMap API
 This project uses the OpenWeatherMap API to fetch weather data. You will need an API key to use the API. Follow these steps to get your API key:
 
-   -Go to the OpenWeatherMap API website.
-   -Sign in or create an account.
-   -Navigate to the API keys section and generate a new API key.
+   - Go to the OpenWeatherMap API website.
+   - Sign in or create an account.
+   - Navigate to the API keys section and generate a new API key.
